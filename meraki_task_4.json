@@ -1,0 +1,30 @@
+{
+      "name": "Toy Story 4",
+      "Rating": "G",
+      "Genre": [
+            "Kids&family",
+            "Fantasy",
+            "Adventure",
+            "Animation",
+            "Comedy"
+      ],
+      "Language": "English",
+      "Director": [
+            "JoshCooley"
+      ],
+      "Producer": [
+            "MarkNielsen",
+            "JonasRivera",
+            "GalynSusman"
+      ],
+      "Writer": [
+            "AndrewStanton",
+            "StephanyFolsom"
+      ],
+      "Release": [
+            "Oct",
+            "1,",
+            "2019"
+      ],
+      "Runtime": 100
+}
